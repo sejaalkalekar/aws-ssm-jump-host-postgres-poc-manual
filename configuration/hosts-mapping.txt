@@ -1,0 +1,5 @@
+# Windows Hosts File Mapping
+
+# Purpose: Route the real RDS hostname to the local HAProxy instance.
+
+127.0.0.1    ssm-jump-host-postgres.c1wcq6gmo9u9.ap-south-1.rds.amazonaws.com
